@@ -1,1 +1,1 @@
-# Gym-trainer
+# ai-gym-coach
